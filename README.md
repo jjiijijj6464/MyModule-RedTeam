@@ -1,2 +1,4 @@
 # MyModule-RedTeam
-Update keybox
+1.Оптимизация кода 
+2.Обновление target.txt 
+3.Реализация обновления pif
